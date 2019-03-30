@@ -13,12 +13,5 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-<<<<<<< HEAD
     @condition = "new"
-=======
-      if cobble.self == "old"
-        "new"
-    end
->>>>>>> c1a7886fd5b7aee8ecc4559e05b8d219d4366934
-  end
 end
